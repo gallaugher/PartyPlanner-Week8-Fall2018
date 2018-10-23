@@ -12,6 +12,7 @@
 		3E8A2CD5217690F400F07D60 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3E8A2CD3217690F400F07D60 /* Main.storyboard */; };
 		3E8A2CD7217690F500F07D60 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3E8A2CD6217690F500F07D60 /* Assets.xcassets */; };
 		3E8A2CDA217690F500F07D60 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3E8A2CD8217690F500F07D60 /* LaunchScreen.storyboard */; };
+		3E8A2CE2217695D800F07D60 /* ItemDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E8A2CE1217695D800F07D60 /* ItemDetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		3E8A2CD6217690F500F07D60 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3E8A2CD9217690F500F07D60 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3E8A2CDB217690F500F07D60 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3E8A2CE1217695D800F07D60 /* ItemDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemDetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				3E8A2CCF217690F400F07D60 /* AppDelegate.swift */,
 				3E8A2CD1217690F400F07D60 /* ViewController.swift */,
+				3E8A2CE1217695D800F07D60 /* ItemDetailViewController.swift */,
 				3E8A2CD3217690F400F07D60 /* Main.storyboard */,
 				3E8A2CD6217690F500F07D60 /* Assets.xcassets */,
 				3E8A2CD8217690F500F07D60 /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			files = (
 				3E8A2CD2217690F400F07D60 /* ViewController.swift in Sources */,
 				3E8A2CD0217690F400F07D60 /* AppDelegate.swift in Sources */,
+				3E8A2CE2217695D800F07D60 /* ItemDetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
